@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+.pytest-basetemp/
+.ruff_cache/
+.venv/
+.env
+.env.airflow
+data/raw/*
+!data/raw/.gitkeep
+data/generated/*
+*.pyc
+logs/*
+!logs/.gitkeep
+plugins/*
+!plugins/.gitkeep
